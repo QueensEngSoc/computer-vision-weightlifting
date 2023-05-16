@@ -1,2 +1,2 @@
 # computer-vision-weightlifting
-test
+Created a bicep curl form and repetition tracker using Mediapipe pose estimation.
